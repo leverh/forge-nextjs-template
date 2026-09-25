@@ -6,9 +6,10 @@ It’s built with Next.js 16, React 19, TypeScript, and Tailwind CSS 4, with res
 
 The download includes the full source code, so you can explore it, customize it, and make it your own.
 
-Grab the zip here: [link coming shortly...]
+Grab the zip here: [Forge — free template](https://forge.madebyever.com/)
 
-[Live Link]()
+Here's the [Live Link](https://forge.madebyever.com/)
+
 
 I’m sharing it because, why not? If you like the style, you can find more of my projects and premium templates at [madebyever.com](https://madebyever.com/). I’m also available for freelance work if you’d like something built specifically for you or for collaborations.
 
