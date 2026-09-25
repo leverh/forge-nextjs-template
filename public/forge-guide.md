@@ -19,3 +19,5 @@ MIT — free to use for personal and commercial projects.
 
 For pre-built Auth, Stripe checkout, dashboards, and other production-ready commercial starters,
 visit **[madebyever.com/templates](https://madebyever.com/templates)**.
+
+**See the main README.md file for more information**
